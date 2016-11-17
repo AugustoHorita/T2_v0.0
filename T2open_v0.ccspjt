@@ -1,0 +1,23 @@
+[PROJECT]
+Target=T2open_v0.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.008
+Compiler=PCM
+CCSVersion=5.008
+[Target Data]
+FileList=T2open_v0.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;E:\T2_Projetos\Firmware\
+[E:\T2_Projetos\Firmware\T2open_v0]
+Type=4
+[mru-list]
+1=T2open_v0.c
+[Opened Files]
+1=T2open_v0.c
+2=T2open_v0.h
+3=
+[T2open_v0.c]
+Type=4
+[Units]
+Count=1
+1=T2open_v0 (main)
